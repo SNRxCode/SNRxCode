@@ -6,7 +6,7 @@
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=SNRxCode&label=Profile%20views&color=0e75b6&style=flat alt="SNRxCode" /> </p>
 
-<p> I'm an undergraduate Data Science student passionate about machine learning, data visualization, and deep learning. Experienced in applying analytical techniques and solving real-world problems through data-driven insights. I'm committed to continuous learning and leveraging technology to build impactful solutions.</p>
+<p> I'm an Data Science undergraduate student with a strong desire to study and explore the world of data. I'm motivated by the joy of discovering insights via data analysis, machine learning, and visualization. I thrive in places that push me to broaden my skill set and use data-driven solutions to real-world challenges. I'm always searching for ways to learn, grow, and contribute meaningfully to relevant projects, and I'm eager to connect with like-minded people.</p>
 
  
 
