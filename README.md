@@ -17,14 +17,8 @@
 - <b>My own website</b>
 
   - [Website](https://snrxcode.github.io/Portfolio-Webiste-V1.0)
-
  
 
- 
-
-📫How to reach me **teofilussp454@gmail.com**
-
- 
 
 <h3 align="left">Connect with me:</h3>
 
