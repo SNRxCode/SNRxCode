@@ -15,7 +15,6 @@
  
 
 - <b>My own website</b>
-
   - [Website](https://snrxcode.github.io/Portfolio-Webiste-V1.0)
  
 
