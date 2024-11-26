@@ -15,7 +15,10 @@
  
 
 - <b>My own website</b>
-  - [Website](https://snrxcode.github.io/Portfolio-Webiste-V1.0)
+  - [Website](https://snrxcode.github.io/Portfolio-Webiste-V1.0) (Not Responsive)
+ 
+- <b>Data Science Project</b>
+  - [Click Here]
  
 
 
