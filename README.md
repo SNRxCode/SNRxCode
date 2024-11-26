@@ -17,8 +17,8 @@
 - <b>My own website</b>
   - [Website](https://snrxcode.github.io/Portfolio-Webiste-V1.0) (Not Responsive)
  
-- <b>Data Science Project</b>
-  - [Click Here]
+- <b>My Data Science Projects</b>
+  - [Click Here](https://github.com/SNRxCode/MR-Data-Science-Projects)
  
 
 
