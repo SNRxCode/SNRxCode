@@ -1,46 +1,36 @@
-<h1 align="center">Hi, I'm Maxcell Rimba</h1>
-
-<h3 align="center">Data Science Undergraduate Student</h3>
-
- 
-
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=SNRxCode&label=Profile%20views&color=0e75b6&style=flat alt="SNRxCode" /> </p>
-
-<p> I'm a Data Science undergraduate student with a strong desire to study and explore the world of data. I'm motivated by the joy of discovering insights via data analysis, machine learning, and visualization. I thrive in places that push me to broaden my skill set and use data-driven solutions to real-world challenges. I'm always searching for ways to learn, grow, and contribute meaningfully to relevant projects, and I'm eager to connect with like-minded people.</p>
-
- 
-
-<h2>Projects:</h2>
-
- 
-
-- <b>My own website</b>
-  - [Website](https://snrxcode.github.io/Portfolio-Webiste-V1.0) (Not Responsive)
- 
-- <b>My Data Science Projects</b>
-  - [Click Here](https://github.com/SNRxCode/MR-Data-Science-Projects)
- 
-
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-
-<a href=https://www.linkedin.com/in/maxcellrimba target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg alt="Link is not available." height="30" width="40" /></a>
-
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tiny5&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Welcome+to+my+Github+page" alt="Typing SVG" /></a>
 </p>
 
+# I'm Maxcell Rimba!
+
+### Data Science Undergraduate Student
+
+#### :boy:About me,
+
+I'm a Data Science undergraduate student with a strong desire to study and explore the world of data. I'm motivated by the joy of discovering insights via data analysis, machine learning, and visualization. I thrive in places that push me to broaden my skill set and use data-driven solutions to real-world challenges. I'm always searching for ways to learn, grow, and contribute meaningfully to relevant projects, and I'm eager to connect with like-minded people.
+
+#
+
+### Projects
+
+- My own website
+  - [Website](https://snrxcode.github.io/Portfolio-Webiste-V1.0) (Not Responsive)
  
+- My Data Science Projects
+  - [Click Here](https://github.com/SNRxCode/MR-Data-Science-Projects)
 
-<h3 align="left">Languages and Tools:</h3>
+#
 
-<p align="left"> 
- <a href=https://www.cprogramming.com/ target="_blank" rel="noreferrer"> 
-  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg alt="c" width="40" height="40"/> </a> 
- <a href=https://www.docker.com/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg alt="docker" width="40" height="40"/> </a> 
- <a href=https://www.mysql.com/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg alt="mysql" width="40" height="40"/> </a> 
- <a href=https://opencv.org/ target="_blank" rel="noreferrer"> <img src=https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg alt="opencv" width="40" height="40"/> </a> 
- <a href=https://pandas.pydata.org/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg alt="pandas" width="40" height="40"/> </a> 
- <a href=https://www.python.org target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg alt="python" width="40" height="40"/> </a> 
- <a href=https://pytorch.org/ target="_blank" rel="noreferrer"> <img src=https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg alt="pytorch" width="40" height="40"/> </a> <a href=https://scikit-learn.org/ target="_blank" rel="noreferrer"> <img src=https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg alt="scikit_learn" width="40" height="40"/> </a> <a href=https://seaborn.pydata.org/ target="_blank" rel="noreferrer"> <img src=https://seaborn.pydata.org/_images/logo-mark-lightbg.svg alt="seaborn" width="40" height="40"/> </a> 
- <a href=https://www.tensorflow.org target="_blank" rel="noreferrer"> <img src=https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg alt="tensorflow" width="40" height="40"/> </a> </p>
+### Programming Language
+![Python](https://img.shields.io/badge/python-4B8BBE?style=for-the-badge&logo=python&labelColor=black)
+![HTML](https://img.shields.io/badge/html-E34C26?style=for-the-badge&logo=html5&labelColor=black)
+![CSS](https://img.shields.io/badge/css-25A1E0?style=for-the-badge&logo=css3&logoColor=25A1E0&labelColor=black)
+![MySQL](https://img.shields.io/badge/mysql-00758F?style=for-the-badge&logo=mysql&logoColor=00758F&logoSize=auto&labelColor=black)
+![R](https://img.shields.io/badge/r-%2325598a?style=for-the-badge&logo=r&logoColor=%2325598a&logoSize=auto&labelColor=black)
+
+#
+
+
+
+
