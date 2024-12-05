@@ -1,5 +1,5 @@
 <p align='center'>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tiny5&size=40&duration=3000&pause=1000&color=7A7A7A&center=true&vCenter=true&width=500&lines=Welcome+to+my+Github+page" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tiny5&size=40&duration=3000&pause=1000&color=FF8F3E&center=true&vCenter=true&width=500&lines=Welcome+to+my+Github+page" alt="Typing SVG" /></a>
 </p>
 
 # I'm Maxcell Rimba!
