@@ -23,6 +23,8 @@ I'm a Data Science undergraduate student with a strong desire to study and explo
 #
 
 ### Programming Language
+![C](https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=C&logoColor=%23A8B9CC&labelColor=%23000000)
+
 ![Python](https://img.shields.io/badge/python-4B8BBE?style=for-the-badge&logo=python&labelColor=black)
 ![HTML](https://img.shields.io/badge/html-E34C26?style=for-the-badge&logo=html5&labelColor=black)
 ![CSS](https://img.shields.io/badge/css-25A1E0?style=for-the-badge&logo=css3&logoColor=25A1E0&labelColor=black)
