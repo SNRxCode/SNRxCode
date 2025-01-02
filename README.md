@@ -18,6 +18,8 @@ I'm a Data Science undergraduate student with a strong desire to study and explo
  
 - [My Data Science Projects](https://github.com/SNRxCode/MR-Data-Science-Projects)
 
+- [My App Projects](https://github.com/SNRxCode/MyItinerary)
+
 #
 
 ### Programming Language
