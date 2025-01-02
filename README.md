@@ -28,5 +28,6 @@ I'm a Data Science undergraduate student with a strong desire to study and explo
 ![CSS](https://img.shields.io/badge/css-25A1E0?style=for-the-badge&logo=css3&logoColor=25A1E0&labelColor=black)
 ![MySQL](https://img.shields.io/badge/sql-00758F?style=for-the-badge&logo=mysql&logoColor=00758F&logoSize=auto&labelColor=black)
 ![R](https://img.shields.io/badge/r-%2325598a?style=for-the-badge&logo=r&logoColor=%2325598a&logoSize=auto&labelColor=black)
+![Dart](https://img.shields.io/badge/Dart-%230175C2?style=for-the-badge&logo=Dart&logoColor=%230175C2&labelColor=%23000000)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SNRxCode&theme=dark&layout=compact)
