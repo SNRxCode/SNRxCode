@@ -14,7 +14,7 @@ I'm a Data Science undergraduate student with a strong desire to study and explo
 
 ### Projects
 
-- [My Portfolio Website](https://snrxcode.github.io/Portfolio-Webiste-V1.0) (Not Responsive)-(Dekstop Only)
+- [My Portfolio Website](https://snrxcode.github.io/Portfolio-Webiste-V1.0) Desktop Friendly
  
 - [My Data Science Projects](https://github.com/SNRxCode/MR-Data-Science-Projects)
 
